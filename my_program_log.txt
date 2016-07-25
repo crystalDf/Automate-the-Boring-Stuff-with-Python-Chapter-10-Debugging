@@ -1,0 +1,10 @@
+ 2016-07-25 22:11:55,127 - INFO - The logging module is working.
+ 2016-07-25 22:11:55,127 - WARNING - An error message is about to logged.
+ 2016-07-25 22:11:55,127 - ERROR - An error has occurred.
+ 2016-07-25 22:11:55,127 - CRITICAL - The program is unable to recover!
+ 2016-07-25 22:11:55,127 - CRITICAL - Critical error! Critical error!
+ 2016-07-25 22:13:11,709 - INFO - The logging module is working.
+ 2016-07-25 22:13:11,709 - WARNING - An error message is about to logged.
+ 2016-07-25 22:13:11,709 - ERROR - An error has occurred.
+ 2016-07-25 22:13:11,709 - CRITICAL - The program is unable to recover!
+ 2016-07-25 22:13:11,709 - CRITICAL - Critical error! Critical error!

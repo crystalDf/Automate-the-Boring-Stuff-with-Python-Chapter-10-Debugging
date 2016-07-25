@@ -1,7 +1,7 @@
 import logging
 
-logging.basicConfig(filename='my_program_log.txt', level=logging.INFO, format=' %(asctime)s - '
-                                                '%(levelname)s - %(message)s')
+logging.basicConfig(filename='my_program_log.txt', level=logging.INFO,
+                    format=' %(asctime)s - %(levelname)s - %(message)s')
 
 logging.debug('Some debugging details.')
 logging.info('The logging module is working.')
