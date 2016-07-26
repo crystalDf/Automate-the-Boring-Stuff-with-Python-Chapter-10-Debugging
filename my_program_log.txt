@@ -8,3 +8,8 @@
  2016-07-25 22:13:11,709 - ERROR - An error has occurred.
  2016-07-25 22:13:11,709 - CRITICAL - The program is unable to recover!
  2016-07-25 22:13:11,709 - CRITICAL - Critical error! Critical error!
+ 2016-07-26 23:44:31,567 - INFO - The logging module is working.
+ 2016-07-26 23:44:31,568 - WARNING - An error message is about to logged.
+ 2016-07-26 23:44:31,568 - ERROR - An error has occurred.
+ 2016-07-26 23:44:31,568 - CRITICAL - The program is unable to recover!
+ 2016-07-26 23:44:31,568 - CRITICAL - Critical error! Critical error!
